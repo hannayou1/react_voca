@@ -15,6 +15,14 @@
     {
       "day": 4,
       "id": "4"
+    },
+    {
+      "day": 5,
+      "id": "AV3lNIWu4kQ"
+    },
+    {
+      "day": 6,
+      "id": "C3uEH0gbsIc"
     }
   ],
   "words": [
@@ -66,6 +74,34 @@
       "kor": "사과",
       "isDone": false,
       "id": "11"
+    },
+    {
+      "day": "1",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": "ps1ZrmrmHjQ"
+    },
+    {
+      "day": "2",
+      "eng": "mouse",
+      "kor": " 쥐",
+      "isDone": false,
+      "id": "gYbb07evSK4"
+    },
+    {
+      "day": "5",
+      "eng": "hand",
+      "kor": "손",
+      "isDone": false,
+      "id": "jOWlwGm_3C0"
+    },
+    {
+      "day": "3",
+      "eng": "apple",
+      "kor": "사과2",
+      "isDone": false,
+      "id": "jqsUlxocAtE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
